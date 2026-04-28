@@ -4,3 +4,5 @@ After going ahead with dict the python understanding was good and interesting on
 The python would always relys mostly on dict
 
 The dict plays a vital role in Python
+
+The dict is just a basic aspect in python but very important.
