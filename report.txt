@@ -10,3 +10,5 @@ The dict is just a basic aspect in python but very important.
 Edited on GitHub.
 
 The local discarded.
+
+Some changes made
